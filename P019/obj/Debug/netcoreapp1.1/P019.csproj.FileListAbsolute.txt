@@ -1,0 +1,9 @@
+D:\Egor\Documents\GitHub\ProjectEuler\P019\bin\Debug\netcoreapp1.1\P019.deps.json
+D:\Egor\Documents\GitHub\ProjectEuler\P019\bin\Debug\netcoreapp1.1\P019.runtimeconfig.json
+D:\Egor\Documents\GitHub\ProjectEuler\P019\bin\Debug\netcoreapp1.1\P019.runtimeconfig.dev.json
+D:\Egor\Documents\GitHub\ProjectEuler\P019\bin\Debug\netcoreapp1.1\P019.dll
+D:\Egor\Documents\GitHub\ProjectEuler\P019\bin\Debug\netcoreapp1.1\P019.pdb
+D:\Egor\Documents\GitHub\ProjectEuler\P019\obj\Debug\netcoreapp1.1\P019.AssemblyInfo.cs
+D:\Egor\Documents\GitHub\ProjectEuler\P019\obj\Debug\netcoreapp1.1\P019.dll
+D:\Egor\Documents\GitHub\ProjectEuler\P019\obj\Debug\netcoreapp1.1\P019.pdb
+D:\Egor\Documents\GitHub\ProjectEuler\P019\obj\Debug\netcoreapp1.1\P019.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\bin\Debug\netcoreapp1.1\P013.deps.json
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\bin\Debug\netcoreapp1.1\P013.runtimeconfig.json
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\bin\Debug\netcoreapp1.1\P013.runtimeconfig.dev.json
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\bin\Debug\netcoreapp1.1\P013.dll
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\bin\Debug\netcoreapp1.1\P013.pdb
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\obj\Debug\netcoreapp1.1\P013.AssemblyInfo.cs
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\obj\Debug\netcoreapp1.1\P013.dll
+D:\Egor\Documents\GitHub\ProjectEuler\Euler\obj\Debug\netcoreapp1.1\P013.pdb
